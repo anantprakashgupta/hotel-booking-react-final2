@@ -91,14 +91,13 @@ export default () => {
       <div class="card">
         <div class="leftside">
           <img
-            src="https://i.pinimg.com/originals/18/9d/dc/189ddc1221d9c1c779dda4ad37a35fa1.png"
+            src="https://cdn4.vectorstock.com/i/1000x1000/36/68/online-hotel-booking-laptop-with-holiday-icons-vector-18373668.jpg"
             class="product"
             alt="Shoes"
           />
         </div>
         <div class="rightside">
           <form onSubmit={handleSubmit}>
-            <h1>CheckOut</h1>
             <h2>Payment Information</h2>
             <p>Cardholder Name</p>
             <input
